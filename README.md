@@ -10,7 +10,7 @@ Foram analisados indicadores relacionados a desligamentos, cargos, departamentos
 
 ## Base de Dados
 
-Foi utilizado o conjunto de dados **IBM HR Analytics Employee Attrition & Performance**, disponibilizado na plataforma Kaggle. A base é amplamente utilizada para estudos de People Analytics, servindo como referência para o desenvolvimento de habilidades analíticas em cenários corporativos.
+Foi utilizado o conjunto de dados **IBM HR Analytics Employee Attrition & Performance**, disponibilizado na plataforma **Kaggle**. A base é amplamente utilizada para estudos de People Analytics, servindo como referência para o desenvolvimento de habilidades analíticas em cenários corporativos.
 
 A base contém informações de 1.470 colaboradores e 35 variáveis relacionadas a aspectos demográficos, profissionais, financeiros e comportamentais dos funcionários.
 
