@@ -58,6 +58,24 @@ O projeto busca responder às seguintes questões:
 * GitHub para documentação, versionamento e compartilhamento do projeto
 
 
+## Metodologia de Análise
+
+A análise foi conduzida de forma investigativa, partindo da taxa geral de turnover da empresa e aprofundando progressivamente a investigação para identificar grupos com maior risco de desligamento.
+
+As etapas da análise foram:
+
+1. Cálculo da taxa geral de turnover da empresa
+2. Identificação dos departamentos com maior rotatividade
+3. Análise da relação entre tempo de empresa e desligamentos
+4. Investigação da influência da faixa etária no turnover
+5. Comparação da taxa de turnover dos funcionários de 18 a 24 anos com a média geral da empresa
+6. Identificação dos departamentos mais impactados pelo turnover entre colaboradores jovens
+7. Análise dos cargos ocupados pelos funcionários jovens do departamento de Vendas
+8. Comparação entre remuneração e turnover nos cargos analisados
+
+Essa abordagem permitiu identificar padrões de desligamento e possíveis fatores associados à retenção de talentos.
+
+
 ## Estrutura do Projeto
 
 ```text
