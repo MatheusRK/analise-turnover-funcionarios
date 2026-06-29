@@ -58,6 +58,17 @@ O projeto busca responder às seguintes questões:
 * GitHub para documentação, versionamento e compartilhamento do projeto
 
 
+## Estrutura do Projeto
+
+```text
+data/
+sql/
+dashboard/
+imagens/
+README.md
+```
+
+
 ## Metodologia de Análise
 
 A análise foi conduzida de forma investigativa, partindo da taxa geral de turnover da empresa e aprofundando progressivamente a investigação para identificar grupos com maior risco de desligamento.
@@ -76,23 +87,27 @@ As etapas da análise foram:
 Essa abordagem permitiu identificar padrões de desligamento e possíveis fatores associados à retenção de talentos.
 
 
-## Estrutura do Projeto
-
-```text
-data/
-sql/
-dashboard/
-imagens/
-README.md
-```
-
-
 ## Principais Insights
-Em desenvolvimento
+
+* A taxa geral de turnover da empresa é de **16,12%**
+* O departamento de Vendas (Sales) apresentou a maior taxa de turnover entre os setores da empresa, **20,63%**
+* Funcionários com **até 5 anos** de empresa registraram a maior taxa de desligamento, **20,88%**
+* Colaboradores **entre 18 e 24 anos** apresentaram turnover de **39,18%**, valor **23,06** pontos percentuais **acima da média geral** da empresa
+* Entre os funcionários de 18 a 24 anos, o departamento de Vendas (Sales) registrou turnover de **51,85%**
+* O cargo de Representante de Vendas (Sales Representative) apresentou simultaneamente a **maior taxa de turnover** (**56,52%**) e a **menor remuneração média** (**R$ 2.319,65**) entre os cargos analisados no departamento de Vendas (Sales)
+* Os resultados sugerem uma possível associação entre **remuneração**, **faixa etária**, **tempo de empresa** e **turnover**
 
 
 ## Dashboard
-Em desenvolvimento
+Em desenvolvimento.
 
 
 ## Conclusões
+
+A análise identificou que o turnover da empresa não ocorre de forma homogênea entre os colaboradores.
+
+Os resultados demonstraram que funcionários mais jovens e com menor tempo de empresa apresentam maior propensão ao desligamento, especialmente no departamento de Sales. Entre os colaboradores de 18 a 24 anos, a taxa de turnover foi significativamente superior à média geral da organização.
+
+Ao aprofundar a investigação no departamento de Vendas, observou-se que o cargo de Sales Representative concentrou simultaneamente a maior rotatividade e a menor remuneração média entre os cargos analisados. Embora os dados não permitam estabelecer relações de causalidade, os resultados sugerem que fatores como estágio de carreira, tempo de empresa e remuneração podem estar associados à retenção de talentos.
+
+Esses achados podem servir como ponto de partida para estratégias de retenção direcionadas aos grupos mais suscetíveis ao desligamento.
