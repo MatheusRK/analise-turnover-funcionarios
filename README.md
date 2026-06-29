@@ -61,11 +61,31 @@ O projeto busca responder às seguintes questões:
 ## Estrutura do Projeto
 
 ```text
-data/
-sql/
-dashboard/
-imagens/
-README.md
+Estrutura do Projeto
+analise-turnover-funcionarios/
+│
+├── data/
+│   └── ibm_hr_analytics.csv
+│
+├── sql/
+│   ├── 01_validacao_dados.sql
+│   └── 02_analise_turnover.sql
+│
+├── dashboard/
+│   └── turnover_dashboard.pbix
+│
+├── imagens/
+│   ├── dashboard_geral.png
+│   └── insights_turnover.png
+│
+└── README.md
+
+Organização
+data/: base de dados utilizada nas análises
+sql/: consultas SQL utilizadas na validação, exploração e investigação dos dados
+dashboard/: arquivo do Power BI com os indicadores e visualizações desenvolvidos
+imagens/: capturas do dashboard utilizadas na documentação do projeto
+README.md: documentação completa do projeto
 ```
 
 
