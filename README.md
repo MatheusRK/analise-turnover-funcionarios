@@ -16,11 +16,11 @@ A base contém informações de 1.470 colaboradores e 35 variáveis relacionadas
 
 Antes do início das análises, foi realizada uma etapa de validação da qualidade dos dados, contemplando:
 
-* Verificação de valores nulos;
-* Identificação de registros duplicados;
-* Validação de tipos de dados;
-* Análise da consistência das categorias;
-* Conferência de possíveis valores discrepantes.
+* Verificação de valores nulos
+* Identificação de registros duplicados
+* Validação de tipos de dados
+* Análise da consistência das categorias
+* Conferência de possíveis valores discrepantes
 
 Os resultados indicaram uma base íntegra e adequada para análises exploratórias e construção de indicadores de Recursos Humanos.
 
